@@ -1,2 +1,2 @@
-# Challenge-3
-try to complete challenge 3
+# Shoping-item
+Adding a simple item chart
